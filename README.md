@@ -8,3 +8,5 @@ To run on terminal: python3 seg.py _image_<sup>1</sup> _number of clusters_<sup>
  1. The full file name of the image (e.g. "glass.jpg").
  2. The number of clusters used in image segmentation. Larger values will take longer to process. Note that duplicate colors may be chosen.
  3. _y_: save the segmented image; _n_: do not save the segmented image
+
+Required Modules: numpy, PIL, matplotlib
