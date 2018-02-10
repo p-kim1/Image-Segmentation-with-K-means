@@ -3,7 +3,7 @@ A simple implementation of image segmentation using the K-means clustering algor
 
 Note: The implementation of K-means is provided for free use by the textbook "Machine Learning: An Algorithmic Perspective".  All credit goes to the author, Stephen Marsland (https://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html).
 
-To run on terminal: python3 seg.py <image>^1^ <number of clusters>^2^ <save image>^3^
+To run on terminal: python3 seg.py _image_<sup>1</sup> _number of clusters_<sup>2</sup> _save image_<sup>3</sup>
  
  1. The full file name of the image (e.g. "glass.jpg").
  2. The number of clusters used in image segmentation. Larger values will take longer to process. Note that duplicate colors may be chosen.
